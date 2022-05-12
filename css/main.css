@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Impact;
+  src: url(../webfonts/impact.ttf);
+}
+.main h1 {
+  font-size: 90px !important;
+  font-family: Impact;
+}
+.main p {
+  font-size: 24px;
+}
+#btnclick {
+  width: 150px;
+  height: 80px !important;
+  margin: 20px !important;
+  padding: 20px !important;
+  background-color: blue ;
+  color: white;
+}
+#btnclick:hover {
+  background-color:green!important;
+}
