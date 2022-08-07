@@ -2,21 +2,31 @@
   font-family: Impact;
   src: url(../webfonts/impact.ttf);
 }
+body{
+  background-image: url(../images/photo-boards-OiV3i01sLqE-unsplash\(1\).jpg);
+  background-position: 0%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
+}
 .main h1 {
   font-size: 90px !important;
   font-family: Impact;
+  color: black;
 }
 .main p {
   font-size: 26px;
   font-weight: bold;
+  color: black;
 }
 #btnclick {
   width: 150px;
   height: 80px !important;
   margin: 20px !important;
   padding: 20px !important;
-  background-color: blue;
-  color: white;
+  
+  /* background-color: blue;
+  color: white; */
 }
 #btnclick:hover {
   background-color: green !important;

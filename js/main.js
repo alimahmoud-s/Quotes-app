@@ -19,3 +19,4 @@ function queteGen() {
   var randomQoute = Math.floor(Math.random() * quotes.length);
   document.getElementById("quote-container").innerHTML = quotes[randomQoute];
 }
+
